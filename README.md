@@ -39,15 +39,20 @@ Conexión a internet para el envío de datos
 Utilización de e-mails o correos electrónicos para notificaciones ante cambios y alertas.
 Empleo de Twitter para actualización de datos.
 Publicación de datos y gráficos en una página web para el control y monitoreo de los valores meteorológicos.
+
 FUENTE DEL PROYECTO:
 La finalidad de nuestro proyecto es académica. No se persigue motivo comercial alguno.
 El proyecto a llevar a cabo tiene como base el proyecto "Liv Pi" de First Cypress.
+
 En GitHub: https://github.com/FirstCypress/LiV
 Se respeta todos las licencias en cuanto a diseño de hardware y software.
+
 Licencia CC-BY-NC-SA 4.0 Creative Commons.
 https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 Licencias del MIT (Massachussets Insititute of Technology) en cuanto al software.
 http://opensource.org/licenses/MIT
+
 Open source.
 En Hackaday: https://hackaday.io/project/2636-raspberry-pi-liv-pi-indoor-air-quality-monitor#menu-description
 En la página web del proyecto:  http://www.livpi.com/
